@@ -11,8 +11,8 @@ We developed a database of ~10 000 unique plasmid features. We then via SeqFindr
 
 The resultant "plasmid barcode" and similarity cluster dendrogram (higher resolution in figures/ directory) - 
 
-image:: https://github.com/BeatsonLab-MicrobialGenomics/Plasmid-barcodes/raw/master/SeqFindr_plasmid_barcode_small.png
-     :alt: ST131 plasmid barcode
+.. image:: https://github.com/BeatsonLab-MicrobialGenomics/Plasmid-barcodes/raw/master/SeqFindr_plasmid_barcode_small.png
+    :alt: ST131 plasmid barcode
 
 **Note:** There is an alternate (interactive) figure using a `D3.js representation`_
 
